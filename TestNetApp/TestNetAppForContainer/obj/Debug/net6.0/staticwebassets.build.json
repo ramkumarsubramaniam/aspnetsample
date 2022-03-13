@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DAsvK6MDrUY0+VUQmpK5OveLAwLRdRWrSbv2SjnWE8E=",
+  "Source": "TestNetAppForContainer",
+  "BasePath": "_content/TestNetAppForContainer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
